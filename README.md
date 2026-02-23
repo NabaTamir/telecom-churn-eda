@@ -76,7 +76,7 @@ The exploratory analysis focuses on:
 
 
 ## Author
-Naba Tamir
-Master of Data Science (Predictive Analytics)
-Curtin University
+* Naba Tamir
+* Master of Data Science (Predictive Analytics)
+* Curtin University
 
