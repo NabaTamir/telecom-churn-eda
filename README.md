@@ -1,5 +1,3 @@
-# telecom-churn-eda
-
 # Telecom Customer Churn – Exploratory Data Analysis
 
 ## Project Overview
@@ -25,14 +23,13 @@ To run the notebook:
 
 Expected structure:
 
-```
 telecom-churn-eda/
 │
 ├── 01_Telecom_Churn_EDA.ipynb
 ├── README.md
 └── data/
     └── churn.csv
-```
+
 
 
 ##  EDA Objectives
@@ -47,7 +44,6 @@ The exploratory analysis focuses on:
 * Investigating relationships between predictors and churn
 
 
-
 ## Key Insights
 
 * **Churn Rate:** ~27% (moderate class imbalance)
@@ -57,8 +53,6 @@ The exploratory analysis focuses on:
 * **Payment Method:** Electronic check users have elevated churn rates
 * **Service Add-ons:** OnlineSecurity and TechSupport reduce churn probability
 * **Internet Type:** Fiber optic customers exhibit higher churn rates
-
-
 
 ## Important Observations
 
